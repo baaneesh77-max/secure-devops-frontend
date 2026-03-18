@@ -1,0 +1,21 @@
+{
+  "name": "secure-devops-frontend",
+  "version": "1.0.0",
+  "description": "secure devops frontend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baaneesh77-max/secure-devops-frontend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/baaneesh77-max/secure-devops-frontend/issues"
+  },
+  "homepage": "https://github.com/baaneesh77-max/secure-devops-frontend#readme"
+}

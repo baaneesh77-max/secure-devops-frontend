@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Secure DevOps Frontend</title>
+</head>
+<body>
+  <h1>Frontend App</h1>
+  <form id="searchForm">
+    <input id="query" placeholder="Search text">
+    <button type="submit">Search</button>
+  </form>
+
+  <script>
+    document.getElementById('searchForm').addEventListener('submit', function (e) {
+      e.preventDefault();
+      const q = document.getElementById('query').value;
+      alert("Frontend working. Search: " + q);
+    });
+  </script>
+</body>
+</html>
